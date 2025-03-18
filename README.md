@@ -14,3 +14,6 @@ MENTOR NAME:NEELA SANTOSH
 
 ## I have implemented Power BI Data Integration to seamlessly connect and unify data from multiple sources, enabling efficient analysis and reporting. This integration consolidates cloud-based sources (Azure, BigQuery, Snowflake), on-premises databases (SQL Server, Oracle, MySQL), third-party applications (Salesforce, Google Analytics), and REST APIs into a single, reliable dataset.Using Power Query for transformation, Dataflows for automation, DAX for advanced calculations, and Gateways for secure on-premises connectivity, this solution ensures real-time synchronization, automated updates, and accurate reporting.This integration enhances decision-making, productivity, scalability, and collaboration, providing a centralized data source for business insights.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8c9d563e-86b4-49f7-9e7b-5985775b049e)
